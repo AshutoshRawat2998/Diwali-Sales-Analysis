@@ -3,9 +3,13 @@ Performed detailed EDA on Diwali sales data to analyze sales distribution, top c
 
 Key Highlights:
 Performed detailed Exploratory Data Analysis (EDA) to understand sales distribution, top categories, and region-wise performance.
+
 Visualized monthly sales trends and category-wise revenue using Python libraries like Pandas, Matplotlib, and Seaborn.
+
 Engineered time-series features to capture seasonality and trends in sales data.
+
 Developed initial predictive models and outlined potential for future sales forecasting during festive periods (forecasting to be implemented).
+
 Generated actionable insights to help business stakeholders optimize stock and marketing strategies.
 
 Tech Stack:
